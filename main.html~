@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>TTT</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="tictactoe.js"></script>
+    </head>
+    <body>
+        <div id="tictactoe"></div>
+    </body>
+</html>
